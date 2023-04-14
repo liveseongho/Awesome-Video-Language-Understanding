@@ -1,6 +1,10 @@
 # awesome-Video-Language-Understanding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We also introduce all non-Awesome papers. Maybe awesome?
+[![stars](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://github.com/liveseongho/Awesome-Video-Language-Understanding "stars")
+[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue)](https://github.com/liveseongho/Awesome-Video-Language-Understanding/issues "issues")
+[![license](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law&logoColor=white)](https://github.com/liveseongho/Awesome-Video-Language-Understanding/blob/main/LICENSE "license MIT")
+
+We also introduce non-Awesome papers. Maybe awesome?
 
 ## Table of Contents
 
@@ -140,7 +144,7 @@ We also introduce all non-Awesome papers. Maybe awesome?
 
   * **STAR** [[Website](https://bobbywu.com/STAR/)]
     <br/> STAR: A Benchmark for Situated Reasoning in Real-World Videos (NeurIPS 2021)
-    
+
   * **VidSitu** [[Paper](https://arxiv.org/abs/2104.00990)][[Code](https://github.com/TheShadow29/VidSitu)][[Website](https://vidsitu.org)][[PapersWithCode](https://paperswithcode.com/dataset/vidsitu)] @AI2
     <br/> Visual Semantic Role Labeling for Video Understanding (CVPR 2021)
 

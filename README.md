@@ -1,5 +1,10 @@
 # Awesome-Video-Language-Understanding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![stars](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://github.com/liveseongho/Awesome-Video-Language-Understanding "stars")
+[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue)](https://github.com/liveseongho/Awesome-Video-Language-Understanding/issues "issues")
+[![license](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law&logoColor=white)](https://github.com/liveseongho/Awesome-Video-Language-Understanding/blob/main/LICENSE "license MIT")
+
+
 We introduce recent works on Awesome Video Language Understanding. If you want to access full version, click [here](https://github.com/liveseongho/Awesome-Video-Language-Understanding/blob/main/README_full.md).
 
 

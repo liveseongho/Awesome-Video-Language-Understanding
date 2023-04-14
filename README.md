@@ -29,7 +29,6 @@
 ## Video Dense Captioning
 
   * **Vid2Seq**: "Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning", CVPR 2023.
-
     [[Paper](https://arxiv.org/abs/2302.14115)][[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/vid2seq)][[Website](https://antoyang.github.io/vid2seq.html)]
 
 

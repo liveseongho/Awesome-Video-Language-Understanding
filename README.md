@@ -90,42 +90,41 @@
 
 ## Downstream Tasks
 
-  * **QVHighlights**: "QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries"
+  * **QVHighlights** [[Paper](https://arxiv.org/abs/2107.09609)][[Code](https://github.com/jayleicn/moment_detr)][[PapersWithCode](https://paperswithcode.com/dataset/qvhighlights)] @UNC
+  <br/> QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries (NeurIPS 2021)
 
-  * **VidSitu**: "Visual Semantic Role Labeling for Video Understanding"
+  * **VidSitu** [[Paper](https://arxiv.org/abs/2104.00990)][[Code](https://github.com/TheShadow29/VidSitu)][[Website](https://vidsitu.org)][[PapersWithCode](https://paperswithcode.com/dataset/vidsitu)] @AI2
+  <br/> Visual Semantic Role Labeling for Video Understanding (CVPR 2021)
   
-  * **TVR** [[Paper](https://arxiv.org/abs/2001.09099)][[Code](https://github.com/jayleicn/TVRetrieval)][[Website](https://tvr.cs.unc.edu)] @UNC
+  * **TVR** [[Paper](https://arxiv.org/abs/2001.09099)][[Code](https://github.com/jayleicn/TVRetrieval)][[Website](https://tvr.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvr)] @UNC
   <br/> TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval (ECCV 2020)
 
-  * **TVQA** [[Paper](https://arxiv.org/abs/1809.01696)][[Code](https://github.com/jayleicn/TVQA)][[Website](http://tvqa.cs.unc.edu)] @UNC
+  * **TVQA** [[Paper](https://arxiv.org/abs/1809.01696)][[Code](https://github.com/jayleicn/TVQA)][[Website](http://tvqa.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvqa)] @UNC
   <br/> TVQA: Localized, Compositional Video Question Answering (EMNLP 2018)
 
-    | Model                  | Val (Acc)     | Test (Acc)    |
-    | ---------------------  | -------------:| -------------:|
-    | MERLOT                 |          78.7 |          78.4 |
-    | MERLOT Reserve         |          86.5 |          86.1 |
-
-  * **ActivityNet**
-
-  * **ActivityNet Captions**
-
-  * **MSR-VTT**
+  * **ActivityNet Captions** [[Paper](https://arxiv.org/abs/1705.00754)][[Code](https://github.com/ranjaykrishna/densevid_eval)][[Website](https://cs.stanford.edu/people/ranjaykrishna/densevid)][[PapersWithCode](https://paperswithcode.com/dataset/activitynet-captions)] @Stanford
+  <br/> Dense-Captioning Events in Videos (ICCV 2017)
+    
+  * **MSR-VTT** [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[PapersWithCode](https://paperswithcode.com/dataset/msr-vtt)] @Microsoft
   <br/> MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016)
 
-  * **YouCook2**
-  <br/> Towards Automatic Learning of Procedures from Web Instructional Videos
+  * **YouCook2** [[Paper](https://arxiv.org/abs/1703.09788)][[Website](http://youcook2.eecs.umich.edu)][[PapersWithCode](https://paperswithcode.com/dataset/youcook2)] @UMich
+  <br/> Towards Automatic Learning of Procedures from Web Instructional Videos (AAAI 2018)
 
-  * **Charades**
-  <br/> Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding
+  * **Charades-STA** [[Paper](https://arxiv.org/abs/1705.02101)][[Code](https://github.com/jiyanggao/TALL)][[PapersWithCode](https://paperswithcode.com/dataset/charades-sta)] @USC
+  <br/> Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ICCV 2017)
 
-  * **DiDeMo**
-  <br/> Localizing Moments in Video with Natural Language
+  * **DiDeMo** [[Paper](https://arxiv.org/abs/1708.01641)][[Code](https://github.com/LisaAnne/LocalizingMoments)][[PapersWithCode](https://paperswithcode.com/dataset/didemo)] @Adobe
+  <br/> Localizing Moments in Video with Natural Language (ICCV 2017)
 
+  * **MSVD** [[Paper](https://www.microsoft.com/en-us/research/publication/collecting-highly-parallel-data-for-paraphrase-evaluation)][[PapersWithCode](https://paperswithcode.com/dataset/msvd)] @Microsoft
+  <br/> Collecting Highly Parallel Data for Paraphrase Evaluation (ACL 2017)
 
-  * **MSVD**
+  * **LSMDC** [[Paper](https://arxiv.org/abs/1605.03705)][[Website](https://sites.google.com/site/describingmovies)][[PapersWithCode](https://paperswithcode.com/dataset/lsmdc)] @MPII
+  <br/> Movie Description (IJCV 2017)
 
-  * **LSMDC**
-
+  * **MPII-MD** [[Paper](https://arxiv.org/abs/1501.02530)][[Website](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset)][[PapersWithCode](https://paperswithcode.com/dataset/lsmdc)] @MPII
+  <br/> A Dataset for Movie Description (CVPR 2015)
 
 
 <!--

@@ -1,7 +1,8 @@
 # Awesome-Video-Language-Understanding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We introduce recent works on Awesome Video Language Understanding. If you want to access full version, click [here](https://github.com/liveseongho/Awesome-Video-Language-Understanding/blob/main/README_full.md).
+We introduce recent works on Awesome Video Language Understanding. 
 
+To access full version, click [here](https://github.com/liveseongho/Awesome-Video-Language-Understanding/blob/main/README_full.md).
 
 ## Table of Contents
 
@@ -32,9 +33,6 @@ We introduce recent works on Awesome Video Language Understanding. If you want t
 
   * **VL-Adapter** [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)] @UNC
     <br/> VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks (CVPR 2022)
-
-  * **ATP** [[Paper](https://arxiv.org/abs/2206.01720)][[Code](https://github.com/StanfordVL/atp-video-language)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)][[Poster](https://stanfordvl.github.io/atp-revisit-video-lang//assets/atp_poster_cvpr2022.pdf)][[Oral](https://youtu.be/-qVZKaP7iR0)] @Stanford
-    <br/> Revisiting the "Video" in Video-Language Understanding (CVPR 2022)
 
   * **VIOLET** [[Paper](https://arxiv.org/abs/2111.12681)][[Code](https://github.com/tsujuifu/pytorch_violet)] @Microsoft
     <br/> VIOLET: End-to-End Video-Language Transformers with Masked Visual-token Modeling (arXiv 2021)
@@ -93,14 +91,17 @@ We introduce recent works on Awesome Video Language Understanding. If you want t
 
 ## Downstream Tasks
 
-  * **ActivityNet Captions** [[Paper](https://arxiv.org/abs/1705.00754)][[Code](https://github.com/ranjaykrishna/densevid_eval)][[Website](https://cs.stanford.edu/people/ranjaykrishna/densevid)][[PapersWithCode](https://paperswithcode.com/dataset/activitynet-captions)] @Stanford
-  <br/> Dense-Captioning Events in Videos (ICCV 2017)
-    
-  * **MSR-VTT** [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[PapersWithCode](https://paperswithcode.com/dataset/msr-vtt)] @Microsoft
-  <br/> MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016)
+  * **STAR** [[Paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/5ef059938ba799aaa845e1c2e8a762bd-Abstract-round2.html)][[Code](https://github.com/csbobby/STAR_Benchmark)][[Website](https://bobbywu.com/STAR)][[PaperswithCode](https://paperswithcode.com/dataset/star-1)] @MIT-IBM
+    <br/> STAR: A Benchmark for Situated Reasoning in Real-World Videos (NeurIPS 2021)
 
+  * **TVQA** [[Paper](https://arxiv.org/abs/1809.01696)][[Code](https://github.com/jayleicn/TVQA)][[Website](http://tvqa.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvqa)] @UNC
+    <br/> TVQA: Localized, Compositional Video Question Answering (EMNLP 2018)
+    
   * **YouCook2** [[Paper](https://arxiv.org/abs/1703.09788)][[Website](http://youcook2.eecs.umich.edu)][[PapersWithCode](https://paperswithcode.com/dataset/youcook2)] @UMich
   <br/> Towards Automatic Learning of Procedures from Web Instructional Videos (AAAI 2018)
+
+  * **ActivityNet Captions** [[Paper](https://arxiv.org/abs/1705.00754)][[Code](https://github.com/ranjaykrishna/densevid_eval)][[Website](https://cs.stanford.edu/people/ranjaykrishna/densevid)][[PapersWithCode](https://paperswithcode.com/dataset/activitynet-captions)] @Stanford
+  <br/> Dense-Captioning Events in Videos (ICCV 2017)
 
   * **Charades-STA** [[Paper](https://arxiv.org/abs/1705.02101)][[Code](https://github.com/jiyanggao/TALL)][[PapersWithCode](https://paperswithcode.com/dataset/charades-sta)] @USC
   <br/> Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ICCV 2017)
@@ -113,6 +114,9 @@ We introduce recent works on Awesome Video Language Understanding. If you want t
 
   * **LSMDC** [[Paper](https://arxiv.org/abs/1605.03705)][[Website](https://sites.google.com/site/describingmovies)][[PapersWithCode](https://paperswithcode.com/dataset/lsmdc)] @MPII
   <br/> Movie Description (IJCV 2017)
+
+  * **MSR-VTT** [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[PapersWithCode](https://paperswithcode.com/dataset/msr-vtt)] @Microsoft
+  <br/> MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016)
 
   * **MPII-MD** [[Paper](https://arxiv.org/abs/1501.02530)][[Website](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset)][[PapersWithCode](https://paperswithcode.com/dataset/lsmdc)] @MPII
   <br/> A Dataset for Movie Description (CVPR 2015)

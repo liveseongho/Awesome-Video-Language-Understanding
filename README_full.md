@@ -2,6 +2,8 @@
 
 We also introduce non-Awesome papers. Maybe awesome?
 
+If you find missed papers, please open issues or pull requests (recommended).
+
 ## Table of Contents
 
 * [Main](#main)
@@ -21,7 +23,6 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **VIOLETv2 (EmpiricalMVM)** [[Paper](https://arxiv.org/abs/2209.01540)][[Code](https://github.com/tsujuifu/pytorch_empirical-mvm)] @Microsoft
   <br/> An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling (CVPR 2023)
     
-
   * **LAVENDER** [[Paper](https://arxiv.org/abs/2206.07160)][[Code](https://github.com/microsoft/LAVENDER)] @Microsoft
     <br/> LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling (CVPR 2023)
 
@@ -95,31 +96,26 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **SwinBERT** [[Paper](https://arxiv.org/abs/2111.13196)][[Code](https://github.com/microsoft/SwinBERT)] @Microsoft
     <br/> SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning (CVPR 2022)
 
-  * **VX2TEXT**
-    <br/> VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs
+  * **HMN** [[Paper](https://arxiv.org/abs/2111.12476)][[Code](https://github.com/MarcusNerva/HMN)] @UCAS
+    <br/> Hierarchical Modular Network for Video Captioning (CVPR 2022)
 
+  * **VX2TEXT** [[Paper](https://arxiv.org/abs/2101.12059)] @Facebook
+    <br/> VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs (CVPR 2021)
 
-  * **DeCEMBERT**
-    <br/> DeCEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization
+  * **DeCEMBERT** [[Paper](https://aclanthology.org/2021.naacl-main.193)][[Code](https://github.com/zinengtang/DeCEMBERT)][[Oral](https://underline.io/events/122/sessions/4187/lecture/20006-decembert-learning-from-noisy-instructional-videos-via-dense-captions-and-entropy-minimization)] @UNC
+    <br/> DeCEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization (NAACL 2021)
 
-  * **CLIP4Caption++**
-    <br/> CLIP4Caption ++: Multi-CLIP for Video Caption
+  * **CLIP4Caption** [[Paper](https://arxiv.org/abs/2110.06615)] @Tencent
+    <br/> CLIP4Caption: CLIP for Video Caption (ACM 2021)
 
-  * **ViTT**
-    <br/> Multimodal Pretraining for Dense Video Captioning
-
-
-  * **CLIP4Caption**
-    <br/> CLIP4Caption: CLIP for Video Caption
-
-  * **HMN**
-    <br/> Hierarchical Modular Network for Video Captioning
+  * **ViTT** [[Paper](https://arxiv.org/abs/2011.11760)][[Oral](https://youtu.be/lahYNDzMyUs)] @Google
+    <br/> Multimodal Pretraining for Dense Video Captioning (ACL 2020)
 
 
 ## Others
 
-  * **GPT2MVS**
-    <br/> GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video Summarization
+  * **GPT2MVS** [[Paper](https://arxiv.org/abs/2104.12465)] @UvA
+    <br/> GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video Summarization (ICMR 2021)
 
 # Datasets and SOTA
 
@@ -131,9 +127,6 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **HowTo100M** [[Paper](https://arxiv.org/abs/1906.03327)][[Code](https://github.com/antoine77340/howto100m)][[Website](https://www.di.ens.fr/willow/research/howto100m)] @Inria
     <br/> HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips (ICCV 2019)
 
-  * **SQA69M**
-    <br/> Just Ask: Learning to Answer Questions from Millions of Narrated Videos
-
 ## Downstream Tasks
 
   * **AGQA-Decomp**
@@ -142,7 +135,7 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **QVHighlights** [[Paper](https://arxiv.org/abs/2107.09609)][[Code](https://github.com/jayleicn/moment_detr)][[PapersWithCode](https://paperswithcode.com/dataset/qvhighlights)] @UNC
     <br/> QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries (NeurIPS 2021)
 
-  * **STAR** [[Website](https://bobbywu.com/STAR)]
+  * **STAR** [[Paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/5ef059938ba799aaa845e1c2e8a762bd-Abstract-round2.html)][[Code](https://github.com/csbobby/STAR_Benchmark)][[Website](https://bobbywu.com/STAR)][[PaperswithCode](https://paperswithcode.com/dataset/star-1)] @MIT-IBM
     <br/> STAR: A Benchmark for Situated Reasoning in Real-World Videos (NeurIPS 2021)
 
   * **VidSitu** [[Paper](https://arxiv.org/abs/2104.00990)][[Code](https://github.com/TheShadow29/VidSitu)][[Website](https://vidsitu.org)][[PapersWithCode](https://paperswithcode.com/dataset/vidsitu)] @AI2
@@ -184,25 +177,20 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **V2C**
     <br/> Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning
 
-
   * **KnowITVQA**
     <br/> KnowIT VQA: Answering Knowledge-Based Questions about Videos
 
   * **TVQA+**
     <br/> TVQA+: Spatio-Temporal Grounding for Video Question Answering
   
-
   * **TVQA** [[Paper](https://arxiv.org/abs/1809.01696)][[Code](https://github.com/jayleicn/TVQA)][[Website](http://tvqa.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvqa)] @UNC
     <br/> TVQA: Localized, Compositional Video Question Answering (EMNLP 2018)
+    
+  * **YouCook2** [[Paper](https://arxiv.org/abs/1703.09788)][[Website](http://youcook2.eecs.umich.edu)][[PapersWithCode](https://paperswithcode.com/dataset/youcook2)] @UMich
+    <br/> Towards Automatic Learning of Procedures from Web Instructional Videos (AAAI 2018)
 
   * **ActivityNet Captions** [[Paper](https://arxiv.org/abs/1705.00754)][[Code](https://github.com/ranjaykrishna/densevid_eval)][[Website](https://cs.stanford.edu/people/ranjaykrishna/densevid)][[PapersWithCode](https://paperswithcode.com/dataset/activitynet-captions)] @Stanford
     <br/> Dense-Captioning Events in Videos (ICCV 2017)
-    
-  * **MSR-VTT** [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[PapersWithCode](https://paperswithcode.com/dataset/msr-vtt)] @Microsoft
-    <br/> MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016)
-
-  * **YouCook2** [[Paper](https://arxiv.org/abs/1703.09788)][[Website](http://youcook2.eecs.umich.edu)][[PapersWithCode](https://paperswithcode.com/dataset/youcook2)] @UMich
-    <br/> Towards Automatic Learning of Procedures from Web Instructional Videos (AAAI 2018)
 
   * **Charades-STA** [[Paper](https://arxiv.org/abs/1705.02101)][[Code](https://github.com/jiyanggao/TALL)][[PapersWithCode](https://paperswithcode.com/dataset/charades-sta)] @USC
     <br/> Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ICCV 2017)
@@ -225,6 +213,8 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **MovieQA**
     <br/> MovieQA: Understanding Stories in Movies through Question-Answering
 
+  * **MSR-VTT** [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[PapersWithCode](https://paperswithcode.com/dataset/msr-vtt)] @Microsoft
+    <br/> MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016)
 
   * **MPII-MD** [[Paper](https://arxiv.org/abs/1501.02530)][[Website](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset)][[PapersWithCode](https://paperswithcode.com/dataset/lsmdc)] @MPII
     <br/> A Dataset for Movie Description (CVPR 2015)

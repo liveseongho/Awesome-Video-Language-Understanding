@@ -33,6 +33,9 @@ We introduce recent works on Awesome Video Language Understanding. If you want t
   * **VL-Adapter** [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)] @UNC
     <br/> VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks (CVPR 2022)
 
+  * **ATP** [[Paper](https://arxiv.org/abs/2206.01720)][[Code](https://github.com/StanfordVL/atp-video-language)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)][[Poster](https://stanfordvl.github.io/atp-revisit-video-lang//assets/atp_poster_cvpr2022.pdf)][[Oral](https://youtu.be/-qVZKaP7iR0)] @Stanford
+    <br/> Revisiting the "Video" in Video-Language Understanding (CVPR 2022)
+
   * **VIOLET** [[Paper](https://arxiv.org/abs/2111.12681)][[Code](https://github.com/tsujuifu/pytorch_violet)] @Microsoft
     <br/> VIOLET: End-to-End Video-Language Transformers with Masked Visual-token Modeling (arXiv 2021)
 
@@ -89,21 +92,6 @@ We introduce recent works on Awesome Video Language Understanding. If you want t
   <br/> HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips (ICCV 2019)
 
 ## Downstream Tasks
-
-  * **QVHighlights** [[Paper](https://arxiv.org/abs/2107.09609)][[Code](https://github.com/jayleicn/moment_detr)][[PapersWithCode](https://paperswithcode.com/dataset/qvhighlights)] @UNC
-  <br/> QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries (NeurIPS 2021)
-
-  * **STAR** [[Website](https://bobbywu.com/STAR/)]
-    <br/> STAR: A Benchmark for Situated Reasoning in Real-World Videos (NeurIPS 2021)
-    
-  * **VidSitu** [[Paper](https://arxiv.org/abs/2104.00990)][[Code](https://github.com/TheShadow29/VidSitu)][[Website](https://vidsitu.org)][[PapersWithCode](https://paperswithcode.com/dataset/vidsitu)] @AI2
-  <br/> Visual Semantic Role Labeling for Video Understanding (CVPR 2021)
-  
-  * **TVR** [[Paper](https://arxiv.org/abs/2001.09099)][[Code](https://github.com/jayleicn/TVRetrieval)][[Website](https://tvr.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvr)] @UNC
-  <br/> TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval (ECCV 2020)
-
-  * **TVQA** [[Paper](https://arxiv.org/abs/1809.01696)][[Code](https://github.com/jayleicn/TVQA)][[Website](http://tvqa.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvqa)] @UNC
-  <br/> TVQA: Localized, Compositional Video Question Answering (EMNLP 2018)
 
   * **ActivityNet Captions** [[Paper](https://arxiv.org/abs/1705.00754)][[Code](https://github.com/ranjaykrishna/densevid_eval)][[Website](https://cs.stanford.edu/people/ranjaykrishna/densevid)][[PapersWithCode](https://paperswithcode.com/dataset/activitynet-captions)] @Stanford
   <br/> Dense-Captioning Events in Videos (ICCV 2017)

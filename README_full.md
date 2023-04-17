@@ -31,16 +31,20 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **ALPRO** [[Paper](https://arxiv.org/abs/2112.09583)][[Code](https://github.com/salesforce/ALPRO)] @Salesforce
     <br/> Align and Prompt: Video-and-Language Pre-training with Entity Prompts (CVPR 2022)
 
-
   * **VL-Adapter** [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)] @UNC
     <br/> VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks (CVPR 2022)
 
+  * **ATP** [[Paper](https://arxiv.org/abs/2206.01720)][[Code](https://github.com/StanfordVL/atp-video-language)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)][[Poster](https://stanfordvl.github.io/atp-revisit-video-lang//assets/atp_poster_cvpr2022.pdf)][[Oral](https://youtu.be/-qVZKaP7iR0)] @Stanford
+    <br/> Revisiting the "Video" in Video-Language Understanding (CVPR 2022)
 
   * **VIOLET** [[Paper](https://arxiv.org/abs/2111.12681)][[Code](https://github.com/tsujuifu/pytorch_violet)] @Microsoft
     <br/> VIOLET: End-to-End Video-Language Transformers with Masked Visual-token Modeling (arXiv 2021)
 
-  * **MCN**
-    <br/> Multimodal Clustering Networks for Self-supervised Learning from Unlabeled Videos
+  * **VidLanKD** [[Paper](https://arxiv.org/abs/2107.02681)][[Code](https://github.com/zinengtang/VidLanKD)] @UNC
+    <br/> VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer  (NeurIPS 2021)
+
+  * **MCN** [[Paper](https://arxiv.org/abs/2104.12671)][[Code](https://github.com/brian7685/Multimodal-Clustering-Network)] @MIT-IBM
+    <br/> Multimodal Clustering Networks for Self-supervised Learning from Unlabeled Videos (ICCV 2021)
 
   * **HERO** [[Paper](https://arxiv.org/abs/2005.00200)][[Code](https://github.com/linjieli222/HERO)] @Microsoft
     <br/> HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training (EMNLP 2020)
@@ -54,11 +58,11 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **FiT** [[Paper](https://arxiv.org/abs/2104.00650)][[Code](https://github.com/m-bain/frozen-in-time)][[Website](https://www.robots.ox.ac.uk/~vgg/research/frozen-in-time)][[Demo](http://meru.robots.ox.ac.uk/frozen-in-time)] @Oxford
     <br/> Frozen in Time: ️A Joint Video and Image Encoder for End to End Retrieval (ICCV 2021)
 
-  * **CLIP-Hitchhiker**
-    <br/> A CLIP-Hitchhiker's Guide to Long Video Retrieval
+  * **CLIP-Hitchhiker** [[Paper](https://arxiv.org/abs/2205.08508)] @Oxford
+    <br/> A CLIP-Hitchhiker's Guide to Long Video Retrieval (arXiv 2022)
 
-  * **CLIP2Video**
-    <br/> CLIP2Video: Mastering Video-Text Retrieval via Image CLIP
+  * **CLIP2Video** [[Paper](https://arxiv.org/abs/2106.11097)][[Code](https://github.com/CryhanFang/CLIP2Video)] @Tencent
+    <br/> CLIP2Video: Mastering Video-Text Retrieval via Image CLIP (arXiv 2021)
 
 
 ## Video Question Answering
@@ -138,12 +142,11 @@ We also introduce non-Awesome papers. Maybe awesome?
   * **QVHighlights** [[Paper](https://arxiv.org/abs/2107.09609)][[Code](https://github.com/jayleicn/moment_detr)][[PapersWithCode](https://paperswithcode.com/dataset/qvhighlights)] @UNC
     <br/> QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries (NeurIPS 2021)
 
-  * **STAR** [[Website](https://bobbywu.com/STAR/)]
+  * **STAR** [[Website](https://bobbywu.com/STAR)]
     <br/> STAR: A Benchmark for Situated Reasoning in Real-World Videos (NeurIPS 2021)
 
   * **VidSitu** [[Paper](https://arxiv.org/abs/2104.00990)][[Code](https://github.com/TheShadow29/VidSitu)][[Website](https://vidsitu.org)][[PapersWithCode](https://paperswithcode.com/dataset/vidsitu)] @AI2
     <br/> Visual Semantic Role Labeling for Video Understanding (CVPR 2021)
-
 
   * **AGQA**
     <br/> AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning
@@ -168,7 +171,6 @@ We also introduce non-Awesome papers. Maybe awesome?
 
   * **VLEP** [[Paper]()][[Code](https://github.com/jayleicn/VideoLanguageFuturePred)]
   <br/> What is More Likely to Happen Next? Video-and-Language Future Event Prediction
-
 
   * **TVC** [[Paper](https://arxiv.org/abs/2001.09099)][[Code](https://github.com/jayleicn/TVCaption)][[Website](https://tvr.cs.unc.edu/tvc.html)] @UNC
     <br/> TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval (ECCV 2020)

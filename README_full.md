@@ -38,6 +38,9 @@ If you find missed papers, please open issues or pull requests (recommended).
   * **ATP** [[Paper](https://arxiv.org/abs/2206.01720)][[Code](https://github.com/StanfordVL/atp-video-language)][[Website](https://stanfordvl.github.io/atp-revisit-video-lang/)][[Poster](https://stanfordvl.github.io/atp-revisit-video-lang//assets/atp_poster_cvpr2022.pdf)][[Oral](https://youtu.be/-qVZKaP7iR0)] @Stanford
     <br/> Revisiting the "Video" in Video-Language Understanding (CVPR 2022)
 
+  * **InternVideo** [[Paper](https://arxiv.org/abs/2212.03191)][[Code](https://github.com/OpenGVLab/InternVideo)] @OpenGVLab
+    <br/> InternVideo: General Video Foundation Models via Generative and Discriminative Learning (arXiv 2022)
+
   * **VIOLET** [[Paper](https://arxiv.org/abs/2111.12681)][[Code](https://github.com/tsujuifu/pytorch_violet)] @Microsoft
     <br/> VIOLET: End-to-End Video-Language Transformers with Masked Visual-token Modeling (arXiv 2021)
 

@@ -42,7 +42,9 @@ To access full version, click [here](https://github.com/liveseongho/Awesome-Vide
 
   * **UniVL** [[Paper](https://arxiv.org/abs/2002.06353)][[Code](https://github.com/microsoft/UniVL)] @Microsoft
     <br/> UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation (arXiv 2020)
-
+    
+  * **InterVideo** [[Paper](https://arxiv.org/abs/2212.03191)][[Code](https://github.com/OpenGVLab/InternVideo)] @OpenGVLab
+    <br/> InternVideo: General Video Foundation Models via Generative and Discriminative Learning (arXiv 2022)
 
 ## Video Retrieval
 

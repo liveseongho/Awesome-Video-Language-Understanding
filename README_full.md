@@ -21,7 +21,7 @@ If you find missed papers, please open issues or pull requests (recommended).
 ## Video Language Transformers
 
   * **VIOLETv2 (EmpiricalMVM)** [[Paper](https://arxiv.org/abs/2209.01540)][[Code](https://github.com/tsujuifu/pytorch_empirical-mvm)] @Microsoft
-  <br/> An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling (CVPR 2023)
+    <br/> An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling (CVPR 2023)
     
   * **LAVENDER** [[Paper](https://arxiv.org/abs/2206.07160)][[Code](https://github.com/microsoft/LAVENDER)] @Microsoft
     <br/> LAVENDER: Unifying Video-Language Understanding as Masked Language Modeling (CVPR 2023)
@@ -132,8 +132,14 @@ If you find missed papers, please open issues or pull requests (recommended).
 
 ## Downstream Tasks
 
-  * **AGQA-Decomp**
-    <br/> Measuring Compositional Consistency for Video Question Answering
+  * **MAD-v2** [[Paper](https://arxiv.org/abs/2303.16899)][[Code](https://github.com/TengdaHan/AutoAD)][[Website](https://www.robots.ox.ac.uk/~vgg/research/autoad)] @Oxford
+    <br/> AutoAD: Movie Description in Context (CVPR 2023)
+
+  * **AGQA-Decomp** [[Paper](https://arxiv.org/abs/2204.07190)][[Code](https://github.com/madeleinegrunde/AGQA_baselines_code)][[Website](https://agqa-decomp.cs.washington.edu)] @UW
+    <br/> Measuring Compositional Consistency for Video Question Answering (CVPR 2022)
+
+  * **MAD** [[Paper](https://arxiv.org/abs/2112.00431)][[Code](https://github.com/Soldelli/MAD)][[PapersWithCode](https://paperswithcode.com/dataset/mad)] @KAUST
+    <br/> MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions (CVPR 2022)
 
   * **QVHighlights** [[Paper](https://arxiv.org/abs/2107.09609)][[Code](https://github.com/jayleicn/moment_detr)][[PapersWithCode](https://paperswithcode.com/dataset/qvhighlights)] @UNC
     <br/> QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries (NeurIPS 2021)
@@ -144,14 +150,14 @@ If you find missed papers, please open issues or pull requests (recommended).
   * **VidSitu** [[Paper](https://arxiv.org/abs/2104.00990)][[Code](https://github.com/TheShadow29/VidSitu)][[Website](https://vidsitu.org)][[PapersWithCode](https://paperswithcode.com/dataset/vidsitu)] @AI2
     <br/> Visual Semantic Role Labeling for Video Understanding (CVPR 2021)
 
-  * **AGQA**
-    <br/> AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning
+  * **AGQA** [[Paper](https://arxiv.org/abs/2103.16002)][[Code](https://github.com/madeleinegrunde/AGQA_baselines_code)][[Website](https://cs.stanford.edu/people/ranjaykrishna/agqa)][[PapersWithCode](https://paperswithcode.com/dataset/agqa)] @Stanford
+    <br/> AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning (CVPR 2021)
 
-  * **MAD**
-    <br/> MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions
+  * **LVU** [[Paper](https://arxiv.org/abs/2106.11310)][[Code](https://github.com/chaoyuaw/lvu)][[Website](https://chaoyuan.org/lvu)] @UTAUS
+    <br/> Towards Long-Form Video Understanding (CVPR 2021)
 
-  * **DramaQA**
-    <br/> DramaQA: Character-Centered Video Story Understanding with Hierarchical QA
+  * **DramaQA** [[Paper](https://arxiv.org/abs/2005.03356)][[Code](https://github.com/liveseongho/DramaQA)][[Website](https://dramaqa.snu.ac.kr)][[PapersWithCode](https://paperswithcode.com/dataset/dramaqa)] @SNU
+    <br/> DramaQA: Character-Centered Video Story Understanding with Hierarchical QA (AAAI 2021)
 
   * **How2QA** [[Paper](https://arxiv.org/abs/2005.00200)][[Code](https://github.com/linjieli222/HERO)] @Microsoft
     <br/> HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training (EMNLP 2020)
@@ -159,14 +165,14 @@ If you find missed papers, please open issues or pull requests (recommended).
   * **How2R** [[Paper](https://arxiv.org/abs/2005.00200)][[Code](https://github.com/linjieli222/HERO)] @Microsoft
     <br/> HERO: Hierarchical Encoder for Video+Language Omni-representation Pre-training (EMNLP 2020)
 
-  * **CondensedMovies**
-  <br/> Condensed Movies: Story Based Retrieval with Contextual Embeddings
+  * **VLEP** [[Paper](https://arxiv.org/abs/2010.07999)][[Code](https://github.com/jayleicn/VideoLanguageFuturePred)][[PapersWithCode](https://paperswithcode.com/dataset/vlep)] @UNC
+  <br/> What is More Likely to Happen Next? Video-and-Language Future Event Prediction (EMNLP 2020)
 
-  * **LVU**
-  <br/> Towards Long-Form Video Understanding
+  * **V2C** [[Paper](https://arxiv.org/abs/2003.05162)][[Code](https://github.com/jacobswan1/Video2Commonsense)][[Website](https://asu-apg.github.io/Video2Commonsense)][[PapersWithCode](https://paperswithcode.com/paper/video2commonsense-generating-commonsense)] @ASU
+    <br/> Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning (EMNLP 2020)
 
-  * **VLEP** [[Paper]()][[Code](https://github.com/jayleicn/VideoLanguageFuturePred)]
-  <br/> What is More Likely to Happen Next? Video-and-Language Future Event Prediction
+  * **CMD** [[Paper](https://arxiv.org/abs/2005.04208)][[Code](https://github.com/m-bain/CondensedMovies)][[Website](https://www.robots.ox.ac.uk/~vgg/research/condensed-movies)][[PapersWithCode](https://paperswithcode.com/dataset/cmd)] @Oxford
+    <br/> Condensed Movies: Story Based Retrieval with Contextual Embeddings (ACCV 2020)
 
   * **TVC** [[Paper](https://arxiv.org/abs/2001.09099)][[Code](https://github.com/jayleicn/TVCaption)][[Website](https://tvr.cs.unc.edu/tvc.html)] @UNC
     <br/> TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval (ECCV 2020)
@@ -174,17 +180,14 @@ If you find missed papers, please open issues or pull requests (recommended).
   * **TVR** [[Paper](https://arxiv.org/abs/2001.09099)][[Code](https://github.com/jayleicn/TVRetrieval)][[Website](https://tvr.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvr)] @UNC
     <br/> TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval (ECCV 2020)
 
-  * **VIOLIN**
-    <br/> Violin: A Large-Scale Dataset for Video-and-Language Inference
+  * **VIOLIN** [[Paper](https://arxiv.org/abs/2003.11618)][[Code](https://github.com/jimmy646/violin)][[PapersWithCode](https://paperswithcode.com/dataset/violin)] @Microsoft
+    <br/> VIOLIN: A Large-Scale Dataset for Video-and-Language Inference (CVPR 2020)
 
-  * **V2C**
-    <br/> Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning
+  * **KnowITVQA** [[Paper](https://arxiv.org/abs/1910.10706)][[Code](https://github.com/noagarcia/knowit-rock)][[Website](https://knowit-vqa.github.io)][[PapersWithCode](https://paperswithcode.com/dataset/knowit-vqa)] @Osaka
+    <br/> KnowIT VQA: Answering Knowledge-Based Questions about Videos (AAAI 2020)
 
-  * **KnowITVQA**
-    <br/> KnowIT VQA: Answering Knowledge-Based Questions about Videos
-
-  * **TVQA+**
-    <br/> TVQA+: Spatio-Temporal Grounding for Video Question Answering
+  * **TVQA+** [[Paper](https://arxiv.org/abs/1904.11574)][[Code](https://github.com/jayleicn/TVQAplus)][[Website](https://tvqa.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvqa-1)] @UNC
+    <br/> TVQA+: Spatio-Temporal Grounding for Video Question Answering (ACL 2020)
   
   * **TVQA** [[Paper](https://arxiv.org/abs/1809.01696)][[Code](https://github.com/jayleicn/TVQA)][[Website](http://tvqa.cs.unc.edu)][[PapersWithCode](https://paperswithcode.com/dataset/tvqa)] @UNC
     <br/> TVQA: Localized, Compositional Video Question Answering (EMNLP 2018)
@@ -204,17 +207,18 @@ If you find missed papers, please open issues or pull requests (recommended).
   * **MSVD** [[Paper](https://www.microsoft.com/en-us/research/publication/collecting-highly-parallel-data-for-paraphrase-evaluation)][[PapersWithCode](https://paperswithcode.com/dataset/msvd)] @Microsoft
     <br/> Collecting Highly Parallel Data for Paraphrase Evaluation (ACL 2017)
 
-  * **TGIF-QA**
-    <br/> Video Question Answering with Spatio-Temporal Reasoning
+  * **TGIF-QA** [[Paper](https://arxiv.org/abs/1704.04497)/[Journal](https://link.springer.com/article/10.1007/s11263-019-01189-x)][[Code](https://github.com/YunseokJANG/tgif-qa)][[PapersWithCode](https://paperswithcode.com/dataset/tgif-qa)] @SNU
+    <br/> TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering (CVPR 2016)
+    <br/> Video Question Answering with Spatio-Temporal Reasoning (IJCV 2019)
 
-  * **PororoQA**
-    <br/> DeepStory: Video Story QA by Deep Embedded Memory Networks
+  * **PororoQA** [[Paper](https://arxiv.org/abs/1707.00836)][[Code](https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks)] @SNU
+    <br/> DeepStory: Video Story QA by Deep Embedded Memory Networks (IJCAI 2017)
 
   * **LSMDC** [[Paper](https://arxiv.org/abs/1605.03705)][[Website](https://sites.google.com/site/describingmovies)][[PapersWithCode](https://paperswithcode.com/dataset/lsmdc)] @MPII
     <br/> Movie Description (IJCV 2017)
 
-  * **MovieQA**
-    <br/> MovieQA: Understanding Stories in Movies through Question-Answering
+  * **MovieQA** [[Paper](https://arxiv.org/abs/1512.02902)][[Code](https://github.com/makarandtapaswi/MovieQA_benchmark)][[PapersWithCode](https://paperswithcode.com/dataset/movieqa)] @UToronto
+    <br/> MovieQA: Understanding Stories in Movies through Question-Answering (CVPR 2016)
 
   * **MSR-VTT** [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[PapersWithCode](https://paperswithcode.com/dataset/msr-vtt)] @Microsoft
     <br/> MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016)

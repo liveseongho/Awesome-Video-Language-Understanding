@@ -60,8 +60,8 @@ To access full version, click [here](https://github.com/liveseongho/Awesome-Vide
     <br/> MERLOT: Multimodal Neural Script Knowledge Models (NeurIPS 2021)
 
   * **JustAsk** [[Paper](https://arxiv.org/abs/2012.00451)/[Journal](https://arxiv.org/abs/2205.05019v2)][[Code](https://github.com/antoyang/just-ask)][[Website](https://antoyang.github.io/just-ask.html)][[Demo](http://videoqa.paris.inria.fr/)][[Poster](https://antoyang.github.io/slides/just-ask-iccv-poster.pdf)][[Slides](https://antoyang.github.io/slides/just-ask-iccv.pdf)][[Oral](https://youtu.be/jzXdRT5W3C4?t=17280)] @Inria 
-  <br/> Just Ask: Learning to Answer Questions from Millions of Narrated Videos (ICCV 2021)
-  <br/> Learning to Answer Visual Questions from Web Videos (TPAMI 2022)
+    <br/> Just Ask: Learning to Answer Questions from Millions of Narrated Videos (ICCV 2021)
+    <br/> Learning to Answer Visual Questions from Web Videos (TPAMI 2022)
   
 
 ## Video Captioning
@@ -83,10 +83,10 @@ To access full version, click [here](https://github.com/liveseongho/Awesome-Vide
 ## Large-scale Video Language Dataset
 
   * **WebVid-10M** [[Paper](https://arxiv.org/abs/2104.00650)][[Code](https://github.com/m-bain/webvid)][[Website](https://m-bain.github.io/webvid-dataset)] @Oxford
-  <br/> Frozen in Time: A Joint Video and Image Encoder for End to End Retrieval (ICCV 2021)
+    <br/> Frozen in Time: A Joint Video and Image Encoder for End to End Retrieval (ICCV 2021)
 
   * **HowTo100M** [[Paper](https://arxiv.org/abs/1906.03327)][[Code](https://github.com/antoine77340/howto100m)][[Website](https://www.di.ens.fr/willow/research/howto100m)] @Inria
-  <br/> HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips (ICCV 2019)
+     <br/> HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips (ICCV 2019)
 
 ## Downstream Tasks
 
@@ -97,25 +97,25 @@ To access full version, click [here](https://github.com/liveseongho/Awesome-Vide
     <br/> TVQA: Localized, Compositional Video Question Answering (EMNLP 2018)
     
   * **YouCook2** [[Paper](https://arxiv.org/abs/1703.09788)][[Website](http://youcook2.eecs.umich.edu)][[PapersWithCode](https://paperswithcode.com/dataset/youcook2)] @UMich
-  <br/> Towards Automatic Learning of Procedures from Web Instructional Videos (AAAI 2018)
+    <br/> Towards Automatic Learning of Procedures from Web Instructional Videos (AAAI 2018)
 
   * **ActivityNet Captions** [[Paper](https://arxiv.org/abs/1705.00754)][[Code](https://github.com/ranjaykrishna/densevid_eval)][[Website](https://cs.stanford.edu/people/ranjaykrishna/densevid)][[PapersWithCode](https://paperswithcode.com/dataset/activitynet-captions)] @Stanford
-  <br/> Dense-Captioning Events in Videos (ICCV 2017)
+    <br/> Dense-Captioning Events in Videos (ICCV 2017)
 
   * **Charades-STA** [[Paper](https://arxiv.org/abs/1705.02101)][[Code](https://github.com/jiyanggao/TALL)][[PapersWithCode](https://paperswithcode.com/dataset/charades-sta)] @USC
-  <br/> Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ICCV 2017)
+    <br/> Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding (ICCV 2017)
 
   * **DiDeMo** [[Paper](https://arxiv.org/abs/1708.01641)][[Code](https://github.com/LisaAnne/LocalizingMoments)][[PapersWithCode](https://paperswithcode.com/dataset/didemo)] @Adobe
-  <br/> Localizing Moments in Video with Natural Language (ICCV 2017)
+    <br/> Localizing Moments in Video with Natural Language (ICCV 2017)
 
   * **MSVD** [[Paper](https://www.microsoft.com/en-us/research/publication/collecting-highly-parallel-data-for-paraphrase-evaluation)][[PapersWithCode](https://paperswithcode.com/dataset/msvd)] @Microsoft
-  <br/> Collecting Highly Parallel Data for Paraphrase Evaluation (ACL 2017)
+    <br/> Collecting Highly Parallel Data for Paraphrase Evaluation (ACL 2017)
 
   * **LSMDC** [[Paper](https://arxiv.org/abs/1605.03705)][[Website](https://sites.google.com/site/describingmovies)][[PapersWithCode](https://paperswithcode.com/dataset/lsmdc)] @MPII
-  <br/> Movie Description (IJCV 2017)
+    <br/> Movie Description (IJCV 2017)
 
   * **MSR-VTT** [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)][[PapersWithCode](https://paperswithcode.com/dataset/msr-vtt)] @Microsoft
-  <br/> MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016)
+     <br/> MSR-VTT: A Large Video Description Dataset for Bridging Video and Language (CVPR 2016)
 
   * **MPII-MD** [[Paper](https://arxiv.org/abs/1501.02530)][[Website](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset)][[PapersWithCode](https://paperswithcode.com/dataset/lsmdc)] @MPII
-  <br/> A Dataset for Movie Description (CVPR 2015)
+    <br/> A Dataset for Movie Description (CVPR 2015)
